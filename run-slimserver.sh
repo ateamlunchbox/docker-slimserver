@@ -10,6 +10,7 @@
   /var/log/squeezeboxserver
 
 /usr/sbin/squeezeboxserver_safe /usr/sbin/squeezeboxserver \
+  --cliport 0 \
   --user squeezeboxserver \
   --prefsdir /var/lib/squeezeboxserver/prefs \
   --logdir /var/log/squeezeboxserver/ \
