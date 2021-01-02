@@ -1,1 +1,1 @@
-docker-slimserver
+docker-slimserver: run Logitech Media Server/Slim Server/Squeezebox Server within a Debian Docker container.
